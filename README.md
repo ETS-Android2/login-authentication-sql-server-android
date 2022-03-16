@@ -1,7 +1,7 @@
 # Login-Authentication-SQL-Server-Android
 Aplicativo simples de autenticação de usuário e senha com o banco de dados sql server.
 
-# Recursos 
+# Resources 
 
 * Inserir usuário e senha; 
 * Consulta dados tabela SQL Server (Comunicação com SQL Server - JTDS-1.3.1); 
