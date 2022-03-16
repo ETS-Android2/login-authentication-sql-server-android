@@ -10,6 +10,8 @@ Opção de entrada com dois menus diferentes.
 
 # Usage
 
-JTDS-1.3.1.jar
+Libs: JTDS-1.3.1.jar
+
+\\simplelogin\app\libs
 
 
