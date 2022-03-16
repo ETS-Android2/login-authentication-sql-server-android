@@ -8,6 +8,10 @@ Consulta dados tabela sql server;
 Validação de dados inseridos; 
 Opção de entrada com dois menus diferentes.
 
+Android Studio 3.0
+API 26
+Java
+
 # Usage
 
 Libs: JTDS-1.3.1.jar
