@@ -4,7 +4,7 @@ Aplicativo simples de autenticação de usuário e senha com o banco de dados sq
 # Recursos 
 
 * Inserir usuário e senha; 
-* Consulta dados tabela SQL Server (Comunicação com SQL); 
+* Consulta dados tabela SQL Server (Comunicação com SQL Server - JTDS-1.3.1); 
 * Validação de dados inseridos; 
 * Opção de entrada com dois menus diferentes.
 
