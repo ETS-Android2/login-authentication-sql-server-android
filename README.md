@@ -11,7 +11,7 @@ Aplicativo simples de autenticação de usuário e senha com o banco de dados sq
 # Usage
 
 Driver utilizado: https://sourceforge.net/projects/jtds/
-Libs: JTDS-1.3.1.jar
+* Libs: JTDS-1.3.1.jar
 
 
 
