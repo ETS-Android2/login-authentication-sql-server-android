@@ -12,6 +12,5 @@ Opção de entrada com dois menus diferentes.
 
 Libs: JTDS-1.3.1.jar
 
-\\simplelogin\app\libs
 
 
