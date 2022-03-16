@@ -1,16 +1,16 @@
 # Login-Authentication-SQL-Server-Android
-Aplicativo simples de autenticação de usuário e senha com o banco de dados sql server.
+Simple user and password authentication application with sql server database.
 
 # Resources 
 
-* Inserir usuário e senha; 
-* Consulta dados tabela SQL Server (Comunicação com SQL Server - JTDS-1.3.1); 
-* Validação de dados inseridos; 
-* Opção de entrada com dois menus diferentes.
+* Insert username and password;
+* Query SQL Server table data (Communication with SQL Server - JTDS-1.3.1);
+* Validation of entered data;
+* Input option with two different menus.
 
 # Usage
 
-Driver utilizado: https://sourceforge.net/projects/jtds/
+Driver used: https://sourceforge.net/projects/jtds/
 * Libs: JTDS-1.3.1.jar
 
 
